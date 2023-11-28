@@ -2,12 +2,8 @@
 
 Application de l'apprentissage profond par transfert en imagerie médicale pour l'aide au diagnostic des lésions thyroïdiennes
 
-  Pour l’implémentation du système, plusieurs bibliothèques et technologies ont été 
-nécessaires :
+  Pour mettre en œuvre ce système, nous avons utilisé plusieurs bibliothèques et technologies clés :
 
-Plateforme TensorFlow, Keras  
-
-Environnements virtuels dans Jupyter Notebook : Google Colab, Jupyter Notebook
-
-Gradio : Interfaces graphiques pour les modèles de ML et DL
-
+Plateforme TensorFlow et Keras : pour le développement et l'entraînement des modèles d'apprentissage profond.
+Environnements virtuels dans Jupyter Notebook : en particulier Google Colab et Jupyter Notebook, qui ont été utilisés pour la création, le prototypage et l'analyse des modèles.
+Gradio : cette technologie nous a permis de concevoir des interfaces graphiques pour nos modèles de Machine Learning et Deep Learning, facilitant ainsi leur utilisation et leur compréhension.
